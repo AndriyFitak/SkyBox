@@ -1,0 +1,135 @@
+.header {
+  position: absolute;
+  width: 1980px;
+  height: 1056.5px;
+  left: 0px;
+  top: -4px;
+}
+.header_nav {
+  position: absolute;
+  width: 815px;
+  height: 40px;
+  left: 250px;
+  top: 61px;
+  display: flex;
+}
+.header_nav_text1 {
+  position: absolute;
+  width: 157px;
+  height: 40px;
+  left: 358px;
+  top: 61px;
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.header_nav_text2 {
+  position: absolute;
+  width: 63px;
+  height: 22px;
+  left: 797px;
+  top: 70px;
+  /* Main menu */
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.header_nav_text3 {
+  position: absolute;
+  width: 74px;
+  height: 22px;
+  left: 929px;
+  top: 70px;
+  /* Main menu */
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.header_nav_text4 {
+  position: absolute;
+  width: 84px;
+  height: 22px;
+  left: 1089px;
+  top: 70px;
+  /* Main menu */
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #FFFFFF;
+}
+.header_btnLogin {
+  position: absolute;
+  left: 1550px;
+  top: 128px;
+}
+.header_btnLogin_text {
+  position: absolute;
+  height: 16px;
+  left: 0px;
+  right: 0px;
+  top: -1px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+  /* identical to box height, or 119% */
+  text-align: center;
+  letter-spacing: 1.25px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.header_btnSign {
+  position: absolute;
+  left: 1650px;
+  top: 132px;
+}
+.header_btnSign_text {
+  position: absolute;
+  width: 132px;
+  height: 39px;
+  left: 0px;
+  top: -1px;
+  background: #FFFFFF;
+  border-radius: 30px;
+  border: none;
+}
+.header_btnSign_text_span {
+  position: absolute;
+  height: 16px;
+  left: 0px;
+  right: 0px;
+  top: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 550;
+  font-size: 14.4237px;
+  line-height: 16px;
+  /* identical to box height, or 119% */
+  text-align: center;
+  letter-spacing: 1.25px;
+  text-transform: uppercase;
+  color: #864cb0;
+}
+.header_main {
+  position: absolute;
+  width: 1334.06px;
+  height: 716px;
+  left: 352px;
+  top: 257px;
+}
+.header_main_design {
+  margin-left: 500px;
+}/*# sourceMappingURL=navbar.css.map */
